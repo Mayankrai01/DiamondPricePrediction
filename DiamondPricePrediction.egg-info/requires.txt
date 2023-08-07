@@ -1,4 +1,6 @@
 pandas
 numpy
 seaborn
+pathlib
 flask
+scikit-learn
